@@ -1,6 +1,6 @@
 # login
 
-A new Flutter project.
+A fully function login app with registration screen using google firebase
 
 ## Getting Started
 
